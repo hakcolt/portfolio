@@ -1,5 +1,29 @@
 {
+  "name": "portfolio",
+  "description": "Portfolio [page](https://hakcolt.github.io/portfolio) made with most used technologies",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "firebase emulators:start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hakcolt/portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "nodejs",
+    "sass",
+    "bootstrap"
+  ],
+  "author": "Igor Hakcolt",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hakcolt/portfolio/issues"
+  },
+  "homepage": "https://github.com/hakcolt/portfolio#readme",
   "devDependencies": {
-    "bootstrap": "^5.2.2"
+    "bootstrap": "^5.2.3"
   }
 }

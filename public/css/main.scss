@@ -8,7 +8,7 @@ $gradient: linear-gradient(220deg, rgb(255, 247, 213) 10%, $primary 35%, #db7d58
 $popover-bg: lighten(#212529, 5);
 $popover-body-color: #f8f9fa;
 
-@import "../node_modules/bootstrap/scss/bootstrap.scss";
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
 
 .overflow-x-hidden {
     overflow-x: hidden;

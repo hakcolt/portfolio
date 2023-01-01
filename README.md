@@ -1,15 +1,17 @@
 # Portfolio | Contact & Projects
 
-Portfolio [page](https://hakcolt.github.io/portfolio) made with most used technologies
+Portfolio [page](https://hakcolt.com) made with most used technologies
 
 ## Structure of the project
 
 - Languages and Technologies:
   - HTML
   - SASS
+  - Node.js
 - API and Frameworks:
   - BootStrap
   - AOS
+  - Firebase
 
 <br>
 
